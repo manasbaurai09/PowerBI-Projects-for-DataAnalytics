@@ -6,7 +6,9 @@
 
 ## 📌 Project Overview
 
-This dashboard delivers a comprehensive analysis of Zomato's food delivery operations across Indian cities. It enables stakeholders to explore total revenue, order quantities, customer ratings, and city-wise performance — all switchable between **Amount** and **Quantity** views. A dynamic **Top N slicer** (Top 5 / 10 / 15 / 20 / 50) controls the city ranking chart, making it highly interactive and portfolio-worthy.
+This dashboard delivers a comprehensive analysis of Zomato's food delivery operations across Indian cities. It enables stakeholders to explore total revenue, order quantities, customer ratings, and city-wise performance — all switchable between **Amount** and **Quantity** views. A dynamic **Top N slicer** (Top 5 / 10 / 15 / 20 / 50) controls the city ranking chart, making it highly interactive and portfolio-worthy. 
+
+The Dataset used in this:- [Zomato Data](Zomato_Data_Source)
 
 ---
 
