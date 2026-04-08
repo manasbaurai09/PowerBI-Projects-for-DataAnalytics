@@ -8,7 +8,7 @@
 
 This dashboard provides a comprehensive view of the data job market, enabling users to explore job counts, salary benchmarks, and top in-demand skills — filtered dynamically by **Job Title** and **Country**.
 
-The project is built on a structured star-schema data model and leverages DAX measures, calculated parameters, and dynamic slicer-driven visuals to deliver actionable insights.
+The project is built on a structured star-schema data model and leverages DAX measures, calculated parameters, and dynamic slicer-driven visuals to deliver actionable insights. The Dataset used in this :- [Jobs Data](Data)
 
 ---
 
