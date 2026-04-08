@@ -8,7 +8,7 @@
 
 This dashboard presents a full-spectrum analysis of Uber's operations, covering booking volumes, revenue trends, trip distances, and ratings. Users can select a **vehicle type** (Auto, Bike, Go Mini, Go Sedan, Premier Sedan, Uber XL) via a visual image slicer, with all metrics and charts updating dynamically in response.
 
-The design uses a sleek black-and-white aesthetic with Uber branding, and leverages a calendar table, DAX time intelligence, field parameters, and custom image integration for a polished, portfolio-ready output.
+The design uses a sleek black-and-white aesthetic with Uber branding, and leverages a calendar table, DAX time intelligence, field parameters, and custom image integration for a polished, portfolio-ready output. The Dataset used in this:- [Uber Data](UberDataset)
 
 ---
 
